@@ -1,0 +1,16 @@
+#welcome{
+    font-family: 'Staatliches', cursive;
+    text-align: center;
+    padding-top: 50px;
+}
+#profile{
+    width: 250px;
+    border-radius: 80px;
+    border: 5px ridge gray;
+    padding: 3px;
+    box-shadow: 10px 10px 10px grey;
+}
+#bio{
+    font-family: "Nothing You Could Do";
+    margin: 10px;
+}
