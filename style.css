@@ -1,3 +1,6 @@
+html{
+    scroll-behavior:smooth;
+}
 #welcome {
     font-family: 'Staatliches', cursive;
     background: linear-gradient(#0061ff 0%, #60efff 100%);
@@ -74,4 +77,10 @@ li:hover {
     cursor: pointer;
     position: absolute;
     z-index: 10;
+}
+a{
+    font-family: "Nothing You Could Do";
+}
+a:hover{
+    color
 }
