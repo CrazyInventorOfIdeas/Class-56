@@ -1,6 +1,7 @@
-html{
-    scroll-behavior:smooth;
+html {
+    scroll-behavior: smooth;
 }
+
 #welcome {
     font-family: 'Staatliches', cursive;
     background: linear-gradient(#0061ff 0%, #60efff 100%);
@@ -77,10 +78,30 @@ li:hover {
     cursor: pointer;
     position: absolute;
     z-index: 10;
+    color: white;
 }
-a{
+
+a {
     font-family: "Nothing You Could Do";
 }
-a:hover{
+
+a:hover {
     color
+}
+#gmap{
+    width: 100%;
+}
+
+p {
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+}
+#name{
+    font-size: 40px;
+}
+#email{
+    display:inline;
+}
+#snapchat{
+    border-radius: 25px;
 }
